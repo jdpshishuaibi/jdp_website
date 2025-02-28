@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>贾丁鹏求职</title>
+    <link>https://jdpshishuaibi.github.io/jdp_website/</link>
+    <description>Recent content on 贾丁鹏求职</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://jdpshishuaibi.github.io/jdp_website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于我</title>
+      <link>https://jdpshishuaibi.github.io/jdp_website/about/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://jdpshishuaibi.github.io/jdp_website/about/</guid>
+      <description>&lt;h2 id=&#34;个人简介&#34;&gt;个人简介&lt;/h2&gt;&#xA;&lt;p&gt;我是贾丁鹏，车辆工程专业硕士，专注于智能汽车与新能源汽车技术研究&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://jdpshishuaibi.github.io/jdp_website/images/%E8%AF%81%E4%BB%B6%E7%85%A7.jpg&#34; alt=&#34;我的照片&#34;&gt;  &lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    <item>
+      <title>技能</title>
+      <link>https://jdpshishuaibi.github.io/jdp_website/skills/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://jdpshishuaibi.github.io/jdp_website/skills/</guid>
+      <description>&lt;h2 id=&#34;专业技能&#34;&gt;专业技能&lt;/h2&gt;&#xA;&lt;h3 id=&#34;编程语言&#34;&gt;编程语言&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;C++&lt;/strong&gt;：熟练&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt;：熟悉&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Matlab&lt;/strong&gt;：熟悉&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;仿真软件&#34;&gt;仿真软件&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Simulink&lt;/li&gt;&#xA;&lt;li&gt;Prescan&lt;/li&gt;&#xA;&lt;li&gt;Carsim&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;算法&#34;&gt;算法&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A* 算法&lt;/li&gt;&#xA;&lt;li&gt;动态规划&lt;/li&gt;&#xA;&lt;li&gt;RRT 算法&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;控制算法&#34;&gt;控制算法&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;MPC（模型预测控制）&lt;/li&gt;&#xA;&lt;li&gt;LQR（线性二次调节器）&lt;/li&gt;&#xA;&lt;li&gt;PID 控制&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>经历</title>
+      <link>https://jdpshishuaibi.github.io/jdp_website/experience/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://jdpshishuaibi.github.io/jdp_website/experience/</guid>
+      <description>&lt;h2 id=&#34;实习经历&#34;&gt;实习经历&lt;/h2&gt;&#xA;&lt;h3 id=&#34;比亚迪---规控算法实习生&#34;&gt;比亚迪 - 规控算法实习生&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;时间&lt;/strong&gt;：2022年7月 - 2022年12月&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;职责&lt;/strong&gt;：&#xA;&lt;ul&gt;&#xA;&lt;li&gt;协同团队搭建了基于ROS2的Planning仿真平台。&lt;/li&gt;&#xA;&lt;li&gt;设计并编写了高效的纯跟踪控制器。&lt;/li&gt;&#xA;&lt;li&gt;实现闭环仿真系统，通过数据传递实现全面的系统仿真。&lt;/li&gt;&#xA;&lt;li&gt;利用可视化工具实时展示系统运行状态，发现并修复规划算法中的bug。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;科研项目&#34;&gt;科研项目&lt;/h2&gt;&#xA;&lt;h3 id=&#34;国家自然科学基金项目&#34;&gt;国家自然科学基金项目&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;时间&lt;/strong&gt;：2021年9月 - 2023年6月&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;职责&lt;/strong&gt;：&#xA;&lt;ul&gt;&#xA;&lt;li&gt;分析车辆间交互影响，构建GCN-LSTM深度学习网络预测车辆轨迹。&lt;/li&gt;&#xA;&lt;li&gt;设计改进的人工驾驶模型，通过五次多项式优化轨迹曲线。&lt;/li&gt;&#xA;&lt;li&gt;搭建MPC横向控制器和PID纵向控制器，实现轨迹跟踪控制。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>联系我</title>
+      <link>https://jdpshishuaibi.github.io/jdp_website/contact/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://jdpshishuaibi.github.io/jdp_website/contact/</guid>
+      <description>&lt;h2 id=&#34;联系方式&#34;&gt;联系方式&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;电话&lt;/strong&gt;：15751770487&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;邮箱&lt;/strong&gt;：15751770487@163.com&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;地址&lt;/strong&gt;：江苏南通&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;社交媒体&#34;&gt;社交媒体&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt;：&lt;a href=&#34;https://github.com/jdpshishuaibi&#34;&gt;jdpshishuaibi&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;LinkedIn&lt;/strong&gt;：&lt;a href=&#34;https://linkedin.com/in/jiadingpeng&#34;&gt;贾丁鹏&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
